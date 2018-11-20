@@ -1,2 +1,2 @@
 # Ciphers
-Implementation of Affine Cipher and Two-square Cipher
+Implementation of different kinds of ciphers for Information Security University subject.
